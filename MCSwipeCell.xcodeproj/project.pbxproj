@@ -10,7 +10,7 @@
 		25597BB91CD9F18C00FF453F /* MCSwipeCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 25597BB81CD9F18C00FF453F /* MCSwipeCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25597BC01CD9F18C00FF453F /* MCSwipeCell.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25597BB51CD9F18C00FF453F /* MCSwipeCell.framework */; };
 		25597BC51CD9F18C00FF453F /* MCSwipeCellTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25597BC41CD9F18C00FF453F /* MCSwipeCellTests.m */; };
-		25597BD11CD9F22300FF453F /* UIColor+MCSwipeCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 25597BCF1CD9F22300FF453F /* UIColor+MCSwipeCell.h */; };
+		25597BD11CD9F22300FF453F /* UIColor+MCSwipeCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 25597BCF1CD9F22300FF453F /* UIColor+MCSwipeCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25597BD21CD9F22300FF453F /* UIColor+MCSwipeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 25597BD01CD9F22300FF453F /* UIColor+MCSwipeCell.m */; };
 /* End PBXBuildFile section */
 
